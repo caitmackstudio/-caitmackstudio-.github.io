@@ -107,6 +107,7 @@ main{
 
 .container {
   display: flex;
+  align-items: flex-start; 
   justify-content: space-around;
 
 }

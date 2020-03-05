@@ -44,6 +44,8 @@ h1{
 	text-align: center;
 	font-family: "Courier New", Courier, monospace;
 	font-size: 15px;
+	color: black;
+
 }
 
 /* nav buttons */
@@ -106,22 +108,35 @@ b{
 h2{
 	text-align: center;
 	font-family: "Courier New", Courier, monospace;
-	font-size: 13px;
+	font-size: 15px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	color: black;
+
 }
 
-/* lighter body text texts */
+/* lighter body text centre */
 h3{
 	text-align: center;
 	font-family: "Courier New", Courier, monospace;
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: lighter;
 	margin-top: 5px;
 	margin-bottom: 5px;
 	color: black;
 }
 
+/* lighter body text left aligned */
+h4{
+	text-align: left;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 15px;
+	font-weight: lighter;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: black;
+
+}
 
 /* footer text */
 h6{

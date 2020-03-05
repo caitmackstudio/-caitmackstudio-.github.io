@@ -102,7 +102,7 @@ h6{
 
 }
 
-/* main body */
+/* main body - index page */
 main{
 	margin: 10px;
 }
@@ -113,8 +113,6 @@ main{
   justify-content: space-around;
 
 }
-
-
 
 .item{
 	margin: 5px;
@@ -127,22 +125,6 @@ main{
 	}
 
 
-/* shop grid structure */
-
-.grid-wrapper{
-	display:grid;
-	grid-template-columns: 1fr 1fr;
-	grid-column-gap: 40px;
-	grid-row-gap: 40px;
-	background-color: white;
-}
-
-.grid-item{
-	background-color: white;
-	display: grid;
-	justify-content: center;
-	padding: 20px;
-}
 
 
 

@@ -131,7 +131,7 @@ main{
 
 .grid-wrapper{
 	display:grid;
-	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	grid-template-columns: 1fr 1fr;
 	grid-column-gap: 40px;
 	grid-row-gap: 40px;
 	background-color: white;

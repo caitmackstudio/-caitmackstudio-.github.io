@@ -162,6 +162,19 @@ h4{
 
 }
 
+h5{
+	text-align: left;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 15px;
+	font-weight: lighter;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 40px;
+	margin-right: 40px;
+	color: black;
+
+}
+
 /* footer text */
 h6{
 	text-align: center;

@@ -18,6 +18,32 @@ h1{
 }
 
 
+div.about {
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	color: black;
+}
+
+@media screen and (min-width: 601px) {
+  div.about {
+  	text-align: center;
+    font-size: 15px;
+    font-family: "Courier New", Courier, monospace;
+	color: black;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.about {
+    text-align: center;
+	font-size: 25px;
+    font-family: "Courier New", Courier, monospace;
+	color: black;
+  }
+}
+
+
+
 /* nav buttons */
 ul{
 	text-align: center;	
